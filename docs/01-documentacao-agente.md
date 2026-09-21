@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Mentoria financeira, ajudando a ter menos gastos e lidar melhor com o dinheiro. 
+Educardor financeiro, ajudando a lidar melhor com o dinheiro. 
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
