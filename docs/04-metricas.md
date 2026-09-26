@@ -53,10 +53,7 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
-
-**O que pode melhorar:**
-- [Liste aqui]
+- O agente seguiu o Prompt de maneira correta e deu as respostas já esperadas.
 
 ---
 
