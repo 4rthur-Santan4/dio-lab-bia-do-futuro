@@ -52,6 +52,9 @@ Após os testes, registre suas conclusões:
 **O que funcionou bem:**
 - O agente seguiu o Prompt de maneira correta e deu as respostas já esperadas.
 
+**Melhorias possíveis:**
+- O agente poderia sugerir perguntas ao cliente para que ele já tivesse um rumo para onde ir.
+
 ---
 
 ## Métricas Avançadas (Opcional)
