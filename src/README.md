@@ -7,9 +7,6 @@ Todo o código-fonte está no arquivo `app.py`.
 ```
 src/
 ├── app.py              # Aplicação principal (Streamlit/Gradio)
-├── agente.py           # Lógica do agente
-├── config.py           # Configurações (API keys, etc.)
-└── requirements.txt    # Dependências
 ```
 
 ## Exemplo de requirements.txt
